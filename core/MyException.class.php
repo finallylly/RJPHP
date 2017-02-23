@@ -3,7 +3,7 @@
 /**
  * 用户自定义的错误异常类
  * User: RJ
- * Date: 2016/02
+ * Date: 2017/02
  * Blog: http://nearby.wang
  * Mail: finallybad@gmail.com
  */
